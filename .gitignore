@@ -23,6 +23,7 @@ Important PDFs/
 *.docx
 *.ppt
 *.pptx
+*.bat
 
 # Optional: ignore Jupyter checkpoints
 .ipynb_checkpoints/
