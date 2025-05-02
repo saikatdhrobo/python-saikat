@@ -1,0 +1,30 @@
+# Ignore hidden system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore virtual environment folders
+venv/
+env/
+__pycache__/
+
+# Ignore all hidden files and folders (starting with .)
+.*
+!.gitignore
+
+# Ignore specific folders
+Important PDFs/
+../Important PDFs/
+../*/Important PDFs/
+
+# Ignore all PDF and Office docs
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.bat
+
+# Optional: ignore Jupyter checkpoints
+.ipynb_checkpoints/
+gitpush.bat
