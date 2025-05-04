@@ -30,6 +30,3 @@
 #         print(i)
 
 
-
-#5. Write a program to create a billing system at supermarket
-
