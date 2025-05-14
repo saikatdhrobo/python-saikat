@@ -1,3 +1,5 @@
+# 1 line shortcut for if-else statements (ternary operator)
+
 # X if condition else Y
 
 """example 1"""
